@@ -1,2 +1,2 @@
-# Drishti---The-Blind-Assist-System
+# Drishti---The-Boon for Blinds
 This projects aims to help the blind people. They can use this application to know the  objects in front of them. With the help of this application, they don’t need expensive physical  devices.
